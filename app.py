@@ -15,10 +15,6 @@ fruits = [
     {"name": "Kiwi", "price": 100, "image": "https://cdn-icons-png.flaticon.com/512/415/415713.png"},
     {"name": "Pomegranate", "price": 160, "image": "https://cdn-icons-png.flaticon.com/512/415/415708.png"},
     {"name": "Blueberry", "price": 140, "image": "https://cdn-icons-png.flaticon.com/512/415/415699.png"},
-    {"name": "Cherry", "price": 150, "image": "https://cdn-icons-png.flaticon.com/512/415/415700.png"},
-    {"name": "Guava", "price": 90, "image": "https://cdn-icons-png.flaticon.com/512/415/415706.png"},
-    {"name": "Lemon", "price": 50, "image": "https://cdn-icons-png.flaticon.com/512/415/415711.png"},
-    {"name": "Avocado", "price": 170, "image": "https://cdn-icons-png.flaticon.com/512/415/415715.png"}
 ]
 
 @app.route("/")
